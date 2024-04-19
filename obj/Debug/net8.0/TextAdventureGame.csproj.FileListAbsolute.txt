@@ -1,0 +1,14 @@
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/bin/Debug/net8.0/TextAdventureGame
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/bin/Debug/net8.0/TextAdventureGame.deps.json
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/bin/Debug/net8.0/TextAdventureGame.runtimeconfig.json
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/bin/Debug/net8.0/TextAdventureGame.dll
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/bin/Debug/net8.0/TextAdventureGame.pdb
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.AssemblyInfoInputs.cache
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.AssemblyInfo.cs
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.csproj.CoreCompileInputs.cache
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.dll
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/refint/TextAdventureGame.dll
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.pdb
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/TextAdventureGame.genruntimeconfig.cache
+/Users/katherinehambley/Projects/ChatGPT/TextAdventureGame/obj/Debug/net8.0/ref/TextAdventureGame.dll
